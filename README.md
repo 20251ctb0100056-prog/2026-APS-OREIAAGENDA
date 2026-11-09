@@ -11,3 +11,11 @@ IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao 
 
 O PetAgenda é um sistema para ajudar na organização dos agendamentos de serviços de um pet shop. Atualmente, os horários podem ser controlados de forma manual, o que pode causar confusão e conflitos entre os atendimentos. O sistema permitirá registrar os pets, seus responsáveis e os serviços que serão realizados. Também ajudará o atendente a consultar os horários disponíveis e organizar os atendimentos do dia.
 
+---
+
+## Estrutura da Documentação
+
+- [x] **3.1 Visão Geral do Sistema**
+- [x] **4.1 Especificação de Requisitos**
+- [x] **4.2.1 Levantamento de Requisitos**
+- [x] **4.2.2 Modelagem de Casos de Uso**
