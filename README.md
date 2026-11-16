@@ -19,3 +19,4 @@ O PetAgenda é um sistema para ajudar na organização dos agendamentos de servi
 - [x] **4.1 Especificação de Requisitos**
 - [x] **4.2.1 Levantamento de Requisitos**
 - [x] **4.2.2 Modelagem de Casos de Uso**
+- [x] ** 4.2.5-atividade.md
